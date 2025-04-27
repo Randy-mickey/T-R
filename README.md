@@ -25,10 +25,7 @@ Portfolio UI Assignment/
 ├── index.html # Main HTML file for the homepage  
 ├── contact.html # HTML file for the contact page  
 ├── style.css # Main CSS file for styling  
-├── script.js # JavaScript file for interactivity  
-├── assets/ # Folder containing images and icons  
-│ ├── images/ # Images used in the project  
-│ └── icons/ # Icons for social links and navigation  
+├── script.js # JavaScript file for interactivity    
 └── README.md # Project documentation
 
 ---
